@@ -1,0 +1,19 @@
+html, body {
+margin: 0;
+padding: 0;
+}
+.shopping-item {
+  display: flex;
+  background-color: aqua;
+  align-items: center;
+justify-content: space-between;
+padding: 5px;
+border-bottom: 1px solid grey;
+}
+
+.shopping-item-image {
+  width: 80px;
+  height: 80px;
+  background-size: cover;
+}
+
